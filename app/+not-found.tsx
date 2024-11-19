@@ -12,6 +12,8 @@ export default function NotFoundScreen() {
         <ThemedText type="title">This screen doesn't exist.</ThemedText>
         <Link href="/" style={styles.link}>
           <ThemedText type="link">Go to home screen!</ThemedText>
+
+          <ThemedText type="link">Not found 🐼 you been stuck😎</ThemedText
         </Link>
       </ThemedView>
     </>
